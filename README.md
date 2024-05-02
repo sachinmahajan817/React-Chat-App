@@ -1,2 +1,1 @@
-# React-Chat-App
-Using React 
+# react-assignments
